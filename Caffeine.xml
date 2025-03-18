@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Caffeine</Name>
+  <User>IR</User>
+  <Project>Default</Project>
+  <Start>3</Start>
+  <End>8</End>
+  <Height>150</Height>
+  <Area>1</Area>
+  <Width>1</Width>
+  <Range>1</Range>
+  <Smooth>8</Smooth>
+  <SmoothLoop>0</SmoothLoop>
+  <DataOffset>0</DataOffset>
+  <SamplingRate>49.5</SamplingRate>
+  <SampleMinimum>0</SampleMinimum>
+  <Report>false</Report>
+  <Save>false</Save>
+  <Resolution>false</Resolution>
+  <HalfHeightWidth>false</HalfHeightWidth>
+  <Noise>false</Noise>
+  <NoiseStart>0</NoiseStart>
+  <NoiseEnd>0</NoiseEnd>
+  <TailingFactor>false</TailingFactor>
+  <PlateCount>false</PlateCount>
+  <Standards>
+    <Standard>
+      <rettime>4.44</rettime>
+      <area>7.21</area>
+      <height>344.58</height>
+      <peak_index>13039</peak_index>
+      <start>4.36</start>
+      <end>4.62</end>
+      <compound>Cafeine</compound>
+      <concentration>50</concentration>
+      <detection_window>3.5</detection_window>
+      <date>2024-03-07T14:09:32.6416283-05:00</date>
+    </Standard>
+  </Standards>
+  <LastUpdate>10/5/2023</LastUpdate>
+</Method>
